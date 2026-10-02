@@ -1,0 +1,39 @@
+{
+  "item": {
+    "id": "com.local.narcissu.debug.0.4.3",
+    "restype": "quick_app",
+    "name": "Narcissu",
+    "description": "",
+    "preview": [
+      "media/user_shot.jpg",
+      "media/IMG_1790933349661.jpg",
+      "media/IMG_1790933345660.jpg",
+      "media/IMG_1790933352695.jpg",
+      "media/IMG_1790933357304.jpg"
+    ],
+    "icon": "media/narcissu_icon_preview.png",
+    "cover": "media/IMG_20261002_050803.png",
+    "author": [
+      {
+        "name": "LBL5201314",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "0.4.3",
+      "file_name": "downloads/com.local.narcissu.debug.0.4.3.rpk",
+      "versionCode": 16
+    },
+    "xmb9p": {
+      "version": "0.4.3",
+      "file_name": "downloads/com.local.narcissu.debug.0.4.3.rpk",
+      "versionCode": 16
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
